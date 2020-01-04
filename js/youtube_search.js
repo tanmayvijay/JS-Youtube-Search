@@ -152,7 +152,7 @@ function prev_page(){
 			q: q,
 			pageToken: token,
 			type: 'video',
-			key: 'AIzaSyDBr0reDI5F0k8MgFcUAjJjMrnp-1K7KOA'		
+			key: '# # - - replace with your API key - - # #'		
 		},
 
 		function(data){
